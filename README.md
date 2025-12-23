@@ -14,8 +14,9 @@ The source code for each project is hosted in a separate repository.
 
 | Project Name | Live Demo | Source Code | Technologies |
 |-------------|-----------|-------------|--------------|
-| [Frontend Mentor Recipe Page](https://www.frontendmentor.io/solutions/recipe-page-challenge-unycV83m1F) | [Live Demo](https://front-end-training-nevikai.github.io/Recipe-Page-Challenge/) | [View Code](https://github.com/Front-end-Training-Nevikai/Recipe-Page-Challenge) | HTML, CSS |
-| [Frontend Mentor Social Links Profile](https://www.frontendmentor.io/solutions/social-links-profile-solution-KxXXA65E6j) | [Live Demo](https://front-end-training-nevikai.github.io/social-link-profile/) | [View Code](https://github.com/Front-end-Training-Nevikai/social-link-profile) | HTML, CSS |
+| [Solution Recipe Page](https://www.frontendmentor.io/solutions/recipe-page-challenge-unycV83m1F) | [Live Demo](https://front-end-training-nevikai.github.io/Recipe-Page-Challenge/) | [View Code](https://github.com/Front-end-Training-Nevikai/Recipe-Page-Challenge) | HTML, CSS |
+| [Solution Social Links Profile](https://www.frontendmentor.io/solutions/social-links-profile-solution-KxXXA65E6j) | [Live Demo](https://front-end-training-nevikai.github.io/social-link-profile/) | [View Code](https://github.com/Front-end-Training-Nevikai/social-link-profile) | HTML, CSS |
+| [Solution Recipe Page Challenge](https://www.frontendmentor.io/solutions/solution-recipe-page-challenge-XTj7zTPbn4) | [Live Demo](https://front-end-training-nevikai.github.io/Results-summary-component/) | [View Code](https://github.com/Front-end-Training-Nevikai/Results-summary-component) | HTML, CSS |
 
 > 🔗 **Note:**
 > The source code links point to repositories inside my GitHub organization where each project is maintained separately.
