@@ -19,6 +19,7 @@ The source code for each project is hosted in a separate repository.
 | [Solution Recipe Page Challenge](https://www.frontendmentor.io/solutions/solution-recipe-page-challenge-XTj7zTPbn4) | [Live Demo](https://front-end-training-nevikai.github.io/Results-summary-component/) | [View Code](https://github.com/Front-end-Training-Nevikai/Results-summary-component) | HTML, CSS |
 | [Solution QR Code Componente](https://www.frontendmentor.io/solutions/solution-qr-code-component-solution-FSUo4v04lV) | [Live Demo](https://front-end-training-nevikai.github.io/qr-code-component/) | [View Code](https://github.com/Front-end-Training-Nevikai/qr-code-component) | HTML, CSS |
 | [Solution  Blog preview card](https://www.frontendmentor.io/solutions/solution-blog-preview-card-hvMVSjb2s6) | [Live Demo](https://front-end-training-nevikai.github.io/Blog-preview-card/) | [View Code](https://github.com/Front-end-Training-Nevikai/Blog-preview-card) | HTML, CSS |
+| [Solution  Product preview card](https://www.frontendmentor.io/solutions/product-preview-card-QMtWQ2A5qG) | [Live Demo](https://front-end-training-nevikai.github.io/Product-preview-card/) | [View Code](https://github.com/Front-end-Training-Nevikai/Product-preview-card/) | HTML, CSS |
 
 > 🔗 **Note:**
 > The source code links point to repositories inside my GitHub organization where each project is maintained separately.
