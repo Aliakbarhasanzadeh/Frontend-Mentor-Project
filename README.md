@@ -38,8 +38,8 @@ The source code for each project is hosted in a separate repository.
 
 ## 👤 Profiles
 
-- Frontend Mentor: [My Frontend Mentor Profile](https://www.frontendmentor.io/profile/nevikai)
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ali-nevikai-180461399/)
+- Frontend Mentor: [My Frontend Mentor Profile](https://www.frontendmentor.io/profile/Aliakbar)
+- LinkedIn: [My LinkedIn Profile]
 
 ---
 
